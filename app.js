@@ -8,7 +8,7 @@
         totalShownColors: 4,
         showDuration: 2000,
         preparationTime: 3000,
-        username: "Anonymous",
+        username: "TiSiSiRe",
         secondsLeft: 3,
         points: 0,
         startClick: 0,
